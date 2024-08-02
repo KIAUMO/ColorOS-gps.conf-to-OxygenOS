@@ -1,0 +1,6 @@
+id=cn-oxygenos-gps-fix
+name=ColorOS-gps.conf-to-OxygenOS
+version=v1
+versionCode=001
+author=哔哩哔哩KIAUMOwO
+description=一个可以把ColorOS的gps.conf带到OxygenOS上的KerenlSU模块。
