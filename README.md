@@ -11,11 +11,11 @@
 
     Don't flash it in Recovery(TWRP,OrangeFox...).
 
-作者：BiliBili：KIAUMOwO  CoolAPK：KIAUMO
+作者：BiliBili：KIAUMOwO          CoolAPK：KIAUMO
 
 适用设备：OnePlus 12
 
-文件来源：OnePlus 12上的ColorOS
+文件来源：OnePlus 12上的ColorOS（gps.conf)
 
 仅在我的OnePlus 12上测试过，其他设备不保证能够正常使用；至少不会造成不开机。
 
